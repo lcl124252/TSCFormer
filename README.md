@@ -130,4 +130,14 @@ We used the official visual code, see the [semantic-kitti-api](https://github.co
 
 Our implementation is mainly based on the following codebase. We gratefully thank the authors for their wonderful works.
 
-[Cross-Modality-Feature-Fusion-Network](https://github.com/LexieYang/Cross-Modality-Feature-Fusion-Network)
+- [BEVFormer](https://github.com/fundamentalvision/BEVFormer)
+- [mmdet3d](https://github.com/open-mmlab/mmdetection3d)
+- [MonoScene](https://github.com/astra-vision/MonoScene)
+- [semantic-kitti-api](https://github.com/PRBonn/semantic-kitti-api)
+- [MobileStereoNet](https://github.com/cogsys-tuebingen/mobilestereonet)
+- [Symphonize](https://github.com/hustvl/Symphonies.git)
+- [DFA3D](https://github.com/IDEA-Research/3D-deformable-attention.git)
+- [VoxFormer](https://github.com/NVlabs/VoxFormer.git)
+- [OccFormer](https://github.com/zhangyp15/OccFormer.git)
+- [CGFormer][pkqbajng/CGFormer (github.com)](https://github.com/pkqbajng/CGFormer)
+- [SGN](https://github.com/Jieqianyu/SGN)
