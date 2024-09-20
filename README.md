@@ -139,5 +139,5 @@ Our implementation is mainly based on the following codebase. We gratefully than
 - [DFA3D](https://github.com/IDEA-Research/3D-deformable-attention.git)
 - [VoxFormer](https://github.com/NVlabs/VoxFormer.git)
 - [OccFormer](https://github.com/zhangyp15/OccFormer.git)
-- [CGFormer][pkqbajng/CGFormer (github.com)](https://github.com/pkqbajng/CGFormer)
+- [CGFormer](https://github.com/pkqbajng/CGFormer)
 - [SGN](https://github.com/Jieqianyu/SGN)
