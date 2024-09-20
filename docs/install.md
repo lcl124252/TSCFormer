@@ -58,7 +58,7 @@ pip install yapf==0.40.0
 
 ##### f. pretrain weights
 
-Please create a `./pretrain` folder under the `./TSCFormer` folder and download the **[Efficientnetb7](https://download.openmmlab.com/mmclassification/v0/efficientnet/efficientnet-b7_3rdparty_8xb32-aa_in1k_20220119-bf03951c.pth)** weights and **[geodepth](https://github.com/lcl124252/TSCFormer/releases/download/1.0/pretrain_geodepth.pth)** weights we provided, then place them inside the `./pretrain` folder.
+Please create a `./pretrain` folder under the `./TSCFormer` folder and download the **[Efficientnetb7](https://download.openmmlab.com/mmclassification/v0/efficientnet/efficientnet-b7_3rdparty_8xb32-aa_in1k_20220119-bf03951c.pth)** weights and **[geodepth](https://github.com/lcl124252/TSCFormer/releases/download/1.0/pretrain_geodepth.pth)** weights, then place them inside the `./pretrain` folder.
 
 ```
 cd ./TSCFormer
