@@ -1,0 +1,4 @@
+# ninja log v5
+12	2275	1720941191150266800	/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/ops_dcnv3/build/temp.linux-x86_64-3.7/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/ops_dcnv3/src/cpu/dcnv3_cpu.o	62fe71e9166713fa
+10	10226	1720941199099638400	/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/ops_dcnv3/build/temp.linux-x86_64-3.7/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/ops_dcnv3/src/vision.o	d14a052851f51d98
+16	26552	1720941215427089000	/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/ops_dcnv3/build/temp.linux-x86_64-3.7/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/ops_dcnv3/src/cuda/dcnv3_cuda.o	74432654f9fbdd4a

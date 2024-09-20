@@ -1,0 +1,7 @@
+# ninja log v5
+10	7707	1718373473	/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/DFA3D/build/temp.linux-x86_64-3.8/dfa3D/ops/csrc/cuda/cudabind.o	aa43435b40ad13a8
+13	8007	1718373473	/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/DFA3D/build/temp.linux-x86_64-3.8/dfa3D/ops/csrc/ms_depth_score_sample.o	a33ba94a21e5d0d
+15	8056	1718373473	/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/DFA3D/build/temp.linux-x86_64-3.8/dfa3D/ops/csrc/wms_deform_attn.o	38111e0cfb1b5d25
+11	9442	1718373474	/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/DFA3D/build/temp.linux-x86_64-3.8/dfa3D/ops/csrc/cuda/ms_depth_score_sample_cuda.o	a7b197c93c76322a
+11	10453	1718373475	/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/DFA3D/build/temp.linux-x86_64-3.8/dfa3D/ops/csrc/cuda/wms_deform_attn_cuda.o	61dcd1e87e2c6d95
+14	11155	1718373476	/mnt/c/Users/lcl124252/Desktop/code/CGFormer/packages/DFA3D/build/temp.linux-x86_64-3.8/dfa3D/ops/csrc/pybind.o	2144835169bf20fe
